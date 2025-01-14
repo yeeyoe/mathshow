@@ -1,2 +1,2 @@
 # mathshow
-create intreasting animation about math
+create intreasting animation of math
